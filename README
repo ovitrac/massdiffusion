@@ -1,0 +1,11 @@
+MASSDIFFUSION is a MATLAB toolbox under construction demonstrating how to new analytical solutions for complex 
+1D mass diffusion problems. Current implementation covers exact analytical solutions for Third kind boundary 
+problems and piece-wise analytical solutions. Future extensions will present the first analytical solutions for 
+multilayer structures.
+
+For any question on the use of this code, contact:
+daniel.goujot@agroparistech.fr (INRA Researcher)
+olivier.vitrac@agroparistech.fr (INRA Researcher)
+
+References:
+(to be added here)
